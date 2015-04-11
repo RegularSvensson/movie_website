@@ -1,1 +1,1 @@
-import mediaimport media
+import mediaimport mediatoy_story = media.Movie("Toy Story", "A story of a bou and his toys that come to life", "http://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg", "https://www.youtube.com/watch?v=dQw4w9WgXcQ")
